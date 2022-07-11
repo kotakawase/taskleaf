@@ -61,3 +61,6 @@ gem 'net-smtp'
 # slim
 gem 'slim-rails'
 gem 'html2slim'
+
+# bootstrap
+gem 'bootstrap'
