@@ -57,3 +57,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # The following default gems are now bundled gems.
 gem 'net-smtp'
+
+# slim
+gem 'slim-rails'
+gem 'html2slim'
+
+# bootstrap
+gem 'bootstrap'
